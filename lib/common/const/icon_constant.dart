@@ -1,0 +1,41 @@
+class IconConst {
+  static const String _path = 'assets/icons/';
+  static const String back = '${_path}back.png';
+  static const String logo = '${_path}logo.png';
+  static const String person = '${_path}person.png';
+  static const String scan = '${_path}scan.png';
+  static const String fakeStar = '${_path}fake_star.png';
+  static const String imagePlaceHolder = '${_path}imagePlaceHolder.png';
+  static const String bellGrey = '${_path}bell_grey.png';
+
+  static const String bg_login = '${_path}bg_login.png';
+  static const String bg_register = '${_path}bg_register.png';
+  static const String hide = '${_path}hide.png';
+  static const String sc_book = '${_path}sc_book.png';
+  static const String sc_home = '${_path}sc_home.png';
+  static const String sc_noti = '${_path}sc_noti.png';
+  static const String sc_setting = '${_path}sc_setting.png';
+  static const String show = '${_path}show.png';
+  static const String bg_gradient1 = '${_path}bg_gradient1.png';
+  static const String bg_gradient2 = '${_path}bg_gradient2.png';
+  static const String hoat_tai = '${_path}hoat_tai.png';
+  static const String hot = '${_path}hot.png';
+  static const String sathach = '${_path}sathach.png';
+  static const String tai_lieu = '${_path}tai_lieu.png';
+  static const String book = '${_path}book.png';
+  static const String clock = '${_path}clock.png';
+  static const String down = '${_path}down.png';
+  static const String download = '${_path}download.png';
+  static const String mu = '${_path}mu.png';
+  static const String pause_video = '${_path}pause_video.png';
+  static const String reload = '${_path}reload.png';
+  static const String tick = '${_path}tick.png';
+  static const String un_tick = '${_path}un_tick.png';
+  static const String up = '${_path}up.png';
+  static const String video_cam = '${_path}video_cam.png';
+  static const String vip = '${_path}vip_1.png';
+  static const String bell = '${_path}bell.png';
+  static const String search = '${_path}search.png';
+  static const String vat_lieu = '${_path}vat_lieu.png';
+  static const String so_tu_nhien = '${_path}so_tu_nhien.png';
+}
